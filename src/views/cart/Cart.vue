@@ -4,8 +4,7 @@
 
 <script>
 export default {
-	name: 'Shopcart'
-	
+	name: 'Cart'	
 }
 </script>
 
