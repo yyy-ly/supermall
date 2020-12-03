@@ -37,7 +37,7 @@ export default {
   },
   computed: {
     showImage() {
-      return this.goodsItem.image || this.goodsItem.show.img
+      return this.goodsItem.image || this.goodsItem.img || this.goodsItem.show.img
     }
   }
 }

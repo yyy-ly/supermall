@@ -213,16 +213,21 @@ export default {
 <style scoped>
 	#detail {
 		position: relative;
-		z-index: 9;
+		z-index: 1;
 		background-color: #fff;
 		height: 100vh;
 	}
+	/* .content {
+    position: absolute;
+    top: 44px;
+    bottom: px;
+  } */
 	.detail-nav {
 		position:relative;
 		z-index: 9;
 		background-color:#fff;
-	}
-	.content {
+	} 
+ .content {
 		height: calc(100% - 44px - 49px);
 	}
 
