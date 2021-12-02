@@ -14,3 +14,4 @@ npm run serve
 ```
 npm run build
 ```
+![](https://img.shields.io/badge/starts-888-blue)
